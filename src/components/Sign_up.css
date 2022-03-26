@@ -129,8 +129,7 @@ input:focus {
 }
 
 .full-name {
-  background-color: 
-transparent;
+  background-color: transparent;
   border: 0;
   color: var(--secondary-text);
   font-weight: 400;
@@ -156,8 +155,7 @@ transparent;
 }
 
 .phone-number {
-  background-color: 
-transparent;
+  background-color: transparent;
   border: 0;
   color: var(--secondary-text);
   font-weight: 400;
@@ -197,8 +195,7 @@ transparent;
 }
 
 .password {
-  background-color: 
-transparent;
+  background-color: transparent;
   border: 0;
   color: var(--secondary-text);
   font-weight: 400;

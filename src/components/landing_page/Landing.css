@@ -1,0 +1,2415 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,300,500|Sahitya:700");
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.landing-page {
+  align-items: center;
+  background-color: var(--bg);
+  display: flex;
+  flex-direction: column;
+  height: 7032px;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.frame-59 {
+  height: 93px;
+  margin-top: -9px;
+  width: 1512px;
+}
+
+.group-1951 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 3.94px;
+  margin-top: 27px;
+  min-width: 1376px;
+}
+
+.flex-col {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 69.79px;
+  min-height: 358px;
+  width: 752px;
+}
+
+.want-to-know-your-id {
+  color: 
+transparent;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 98px;
+  width: 752px;
+}
+
+.span1 {
+  color: var(--indigo);
+}
+
+.lorem-ipsum-dolor-si {
+  color: var(--secondary-text);
+  font-weight: 500;
+  margin-top: 15px;
+  min-height: 104px;
+  width: 747px;
+}
+
+.frame-83 {
+  background-color: var(--primary);
+  border-radius: 8px;
+  display: flex;
+  height: 52px;
+  margin-top: 33px;
+  overflow: hidden;
+  width: 206px;
+}
+
+.explore-career {
+  color: var(--white2);
+  font-weight: 500;
+  height: 26px;
+  margin-left: 31px;
+  margin-top: 13px;
+  width: 144px;
+}
+
+.ellipse-container {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 42px;
+  min-width: 84px;
+}
+
+.ellipse-79 {
+  background-color: var(--primary);
+  border-radius: 7px;
+  height: 14px;
+  width: 14px;
+}
+
+.ellipse-8 {
+  background-color: var(--grey);
+  border-radius: 7px;
+  height: 14px;
+  margin-left: 9px;
+  width: 14px;
+}
+
+.ellipse-81 {
+  background-color: var(--grey);
+  border-radius: 7px;
+  height: 14px;
+  margin-left: 10px;
+  width: 14px;
+}
+
+.illustration {
+  height: 550px;
+  margin-left: 56px;
+  margin-top: -0.11px;
+  width: 564px;
+}
+
+.group-container-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-right: -134px;
+  margin-top: 120px;
+  min-height: 1593px;
+  width: 1596px;
+}
+
+.group-1982 {
+  display: flex;
+  flex-direction: column;
+  height: 397px;
+  margin-left: 20px;
+  width: 1371px;
+}
+
+.group-1979 {
+  display: flex;
+  flex-direction: column;
+  height: 48px;
+  width: 109px;
+}
+
+.explore {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  height: 38px;
+  letter-spacing: 0;
+  width: 107px;
+}
+
+.line-56 {
+  height: 4px;
+  margin-top: 7.7px;
+  width: 60px;
+}
+
+.group-1949 {
+  display: flex;
+  margin-top: 71px;
+  position: relative;
+  width: 1371px;
+}
+
+.frame-88 {
+  background-color: var(--white2);
+  border-radius: 15px;
+  box-shadow: 0px 0px 15px 
+#00000012;
+  display: flex;
+  height: 278px;
+  margin-left: 15px;
+  overflow: hidden;
+  width: 183px;
+}
+
+.group-1942 {
+  display: flex;
+  flex-direction: column;
+  height: 132px;
+  margin-left: 41px;
+  margin-top: 73px;
+  width: 102px;
+}
+
+.scholarship-1-2,
+.exam-2,
+.online-education-1 {
+  height: 100px;
+  margin-top: -0.2px;
+  object-fit: cover;
+  width: 100px;
+}
+
+.scholarship {
+  color: var(--primary-text-black);
+  font-weight: 400;
+  height: 19px;
+  margin-left: 8px;
+  margin-top: 13.2px;
+  width: 84px;
+}
+
+.frame-9 {
+  background-color: var(--white2);
+  border-radius: 15px;
+  display: flex;
+  height: 221px;
+  margin-left: 15px;
+  margin-top: 29px;
+  overflow: hidden;
+  width: 183px;
+}
+
+.group-194 {
+  display: flex;
+  flex-direction: column;
+  height: 132px;
+  margin-left: 41px;
+  margin-top: 44px;
+  width: 102px;
+}
+
+.exam {
+  color: var(--primary-text-black);
+  font-weight: 400;
+  height: 19px;
+  margin-left: 30px;
+  margin-top: 13.2px;
+  width: 40px;
+}
+
+.webinar {
+  color: var(--primary-text-black);
+  font-weight: 400;
+  height: 19px;
+  margin-left: 20px;
+  margin-top: 13.2px;
+  width: 59px;
+}
+
+.group-1983 {
+  display: flex;
+  flex-direction: column;
+  height: 682px;
+  margin-top: 120px;
+  width: 1392px;
+}
+
+.group-1980 {
+  display: flex;
+  flex-direction: column;
+  height: 48px;
+  margin-left: 20px;
+  width: 248px;
+}
+
+.trending-careers {
+  height: 38px;
+  letter-spacing: 0;
+  width: 246px;
+}
+
+.line-57 {
+  height: 4px;
+  margin-top: 7.8px;
+  width: 140px;
+}
+
+.group-1976 {
+  align-items: flex-start;
+  display: flex;
+  height: 563px;
+  margin-top: 70.5px;
+  min-width: 1392px;
+}
+
+.group-container-2 {
+  height: 569px;
+  margin-left: -6px;
+  margin-top: -6.25px;
+  position: relative;
+  width: 696px;
+}
+
+.group-1969 {
+  height: 343px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 509px;
+}
+
+.overlap-group {
+  height: 557px;
+  left: 139px;
+  position: absolute;
+  top: 12px;
+  width: 557px;
+}
+
+.rectangle-530 {
+  background-color: var(--indigo);
+  border-radius: 20px;
+  height: 379px;
+  left: 93px;
+  position: absolute;
+  top: 106px;
+  width: 379px;
+}
+
+.doctor-cuate-1 {
+  height: 557px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 557px;
+}
+
+.flex-col-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 58px;
+  margin-left: 6px;
+  min-height: 319px;
+  width: 696px;
+}
+
+.frame-95 {
+  background-color: var(--white2);
+  border-radius: 20px;
+  box-shadow: 0px 0px 15px 
+#00000012;
+  display: flex;
+  height: 237px;
+  overflow: hidden;
+  width: 696px;
+}
+
+.group-1970 {
+  display: flex;
+  flex-direction: column;
+  height: 138px;
+  margin-left: 33px;
+  margin-top: 49px;
+  width: 634px;
+}
+
+.doctor-surgeons {
+  color: var(--primary-text-black);
+  font-weight: 500;
+  height: 26px;
+  width: 185px;
+}
+
+.lorem-ipsum-dolor-si-1 {
+  color: var(--secondary-text);
+  font-weight: 400;
+  height: 95px;
+  margin-top: 17px;
+  width: 630px;
+}
+
+.group-container-3 {
+  align-items: center;
+  display: flex;
+  height: 56px;
+  margin-top: 26px;
+  min-width: 102px;
+  position: relative;
+}
+
+.group-1990 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 120px;
+  min-height: 275px;
+  width: 1576px;
+}
+
+.group-container {
+  align-items: flex-start;
+  display: flex;
+  height: 57px;
+  min-width: 1372px;
+}
+
+.group-1981 {
+  display: flex;
+  flex-direction: column;
+  height: 48px;
+  width: 303px;
+}
+
+.surname {
+  height: 38px;
+  letter-spacing: 0;
+  width: 301px;
+}
+
+.line-58 {
+  height: 4px;
+  margin-top: 8px;
+  width: 165px;
+}
+
+.group-1988 {
+  align-self: flex-end;
+  display: flex;
+  height: 56px;
+  margin-left: 967px;
+  position: relative;
+  width: 102px;
+}
+
+.group-1971 {
+  border-radius: 16px;
+  display: flex;
+  height: 32px;
+  margin-top: 12px;
+  width: 32px;
+}
+
+.biarrow-down {
+  height: 20px;
+  margin-left: 6px;
+  margin-top: 6px;
+  width: 20px;
+}
+
+.group-1989 {
+  display: flex;
+  margin-top: 61px;
+  position: relative;
+  width: 1576px;
+}
+
+.frame-4 {
+  background-color: var(--white2);
+  border-radius: 14px;
+  box-shadow: 0px 0px 15px 
+#00000008;
+  display: flex;
+  height: 157px;
+  overflow: hidden;
+  width: 246px;
+}
+
+.group-7 {
+  display: flex;
+  flex-direction: column;
+  height: 115px;
+  margin-left: 21px;
+  margin-top: 19px;
+  width: 205px;
+}
+
+.noun-musician-4665480-1 {
+  height: 50px;
+  margin-left: 76.8px;
+  margin-top: -0.2px;
+  width: 47.52px;
+}
+
+.line-1 {
+  height: 1px;
+  margin-top: 12.8px;
+  width: 205px;
+}
+
+.group-2 {
+  display: flex;
+  flex-direction: column;
+  height: 39px;
+  margin-left: 54px;
+  margin-top: 12.5px;
+  width: 101px;
+}
+
+.musician {
+  color: var(--primary-text-black);
+  font-weight: 400;
+  height: 19px;
+  margin-left: 16px;
+  width: 65px;
+}
+
+.performing-arts {
+  color: var(--secondary-text);
+  font-weight: 300;
+  height: 16px;
+  margin-top: 4px;
+  width: 97px;
+}
+
+.frame {
+  background-color: var(--white2);
+  border-radius: 14px;
+  box-shadow: 0px 0px 15px 
+#00000008;
+  display: flex;
+  height: 157px;
+  margin-left: 20px;
+  overflow: hidden;
+  width: 246px;
+}
+
+.noun-secretary-4135566-1 {
+  height: 50px;
+  margin-left: 86px;
+  margin-top: -0.2px;
+  width: 32.46px;
+}
+
+.group-2-1 {
+  display: flex;
+  flex-direction: column;
+  height: 39px;
+  margin-left: 33px;
+  margin-top: 12.5px;
+  width: 143px;
+}
+
+.company-secretary {
+  color: var(--primary-text-black);
+  font-weight: 400;
+  height: 19px;
+  width: 139px;
+}
+
+.finance-banking {
+  color: var(--secondary-text);
+  font-weight: 300;
+  height: 16px;
+  margin-left: 13px;
+  margin-top: 4px;
+  width: 114px;
+}
+
+.group-77 {
+  display: flex;
+  flex-direction: column;
+  height: 115px;
+  margin-left: 21px;
+  margin-top: 19px;
+  position: relative;
+  width: 205px;
+}
+
+.noun-theater-masks-168814-1 {
+  height: 50px;
+  margin-left: 77px;
+  margin-top: -0.2px;
+  width: 50px;
+}
+
+.noun-theater-masks-168814-1-1 {
+  height: 50px;
+  margin-left: 95px;
+  margin-top: -0.2px;
+  width: 14px;
+}
+
+.line-1-1 {
+  height: 1px;
+  margin-left: 57px;
+  margin-top: 12.8px;
+  width: 91px;
+}
+
+.unsplashu0d-bv_-qei-yk {
+  background-size: 100% 100%;
+  display: flex;
+  height: 927px;
+  margin-top: 120px;
+  position: relative;
+  width: 1512px;
+}
+
+.frame-96 {
+  align-items: flex-start;
+  background-color: var(--white2);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 226px;
+  margin-left: 70px;
+  margin-top: 626px;
+  overflow: hidden;
+  width: 704px;
+}
+
+.overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--indigo);
+  display: flex;
+  height: 64px;
+  min-width: 704px;
+  padding: 7px 230px;
+}
+
+.top-colleges {
+  color: var(--white2);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 49px;
+  min-width: 244px;
+}
+
+.ak-chanda-law-college-silchar {
+  color: var(--primary-text-black);
+  font-weight: 500;
+  margin-left: 31px;
+  margin-top: 15px;
+  min-height: 26px;
+}
+
+.group-1986 {
+  display: flex;
+  flex-direction: column;
+  height: 87px;
+  margin-left: 31px;
+  margin-top: 10px;
+  width: 333px;
+}
+
+.law {
+  color: var(--secondary-text);
+  font-weight: 400;
+  height: 19px;
+  width: 30px;
+}
+
+.faculy-broad-area {
+  color: var(--secondary-text);
+  font-weight: 300;
+  height: 64px;
+  margin-top: 4px;
+  width: 329px;
+}
+
+.group-1993 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-right: -288px;
+  margin-top: 120px;
+  min-height: 334px;
+  width: 1730px;
+}
+
+.group-1981-1 {
+  display: flex;
+  flex-direction: column;
+  height: 48px;
+  width: 316px;
+}
+
+.surname-1 {
+  height: 38px;
+  letter-spacing: 0;
+  width: 314px;
+}
+
+.group-1988-1 {
+  align-self: flex-end;
+  display: flex;
+  height: 56px;
+  margin-left: 954px;
+  position: relative;
+  width: 102px;
+}
+
+.group-1991 {
+  display: flex;
+  margin-top: 69px;
+  position: relative;
+  width: 1730px;
+}
+
+.frame-4-1 {
+  align-items: center;
+  background-color: var(--white2);
+  border-radius: 14px;
+  box-shadow: 0px 0px 15px 
+#00000008;
+  display: flex;
+  flex-direction: column;
+  height: 208px;
+  overflow: hidden;
+  padding: 22px 0;
+  width: 330px;
+}
+
+.noun-college-2235593-2 {
+  height: 50px;
+  width: 50px;
+}
+
+.overlap-group-2 {
+  align-items: center;
+  background-color: var(--green);
+  border-radius: 7px;
+  display: flex;
+  height: 13px;
+  justify-content: flex-end;
+  margin-top: 11px;
+  min-width: 46px;
+  padding: 0 5px;
+}
+
+.ellipse-26 {
+  background-color: var(--white2);
+  border-radius: 2.5px;
+  height: 5px;
+  width: 5px;
+}
+
+.private {
+  color: var(--white2);
+  font-weight: 400;
+  margin-left: 5px;
+  min-height: 9px;
+  min-width: 25px;
+}
+
+.line-1-2 {
+  height: 1px;
+  margin-left: 1px;
+  margin-top: 7px;
+  width: 291px;
+}
+
+.address {
+  color: var(--primary-text-black);
+  font-weight: 400;
+  margin-top: 17px;
+  min-height: 19px;
+  text-align: center;
+  width: 308px;
+}
+
+.group-container-4 {
+  align-items: flex-end;
+  display: flex;
+  margin-right: 20px;
+  margin-top: 8px;
+  min-width: 196px;
+}
+
+.group-1967 {
+  height: 15px;
+  width: 15px;
+}
+
+.group-166-1 {
+  display: flex;
+  margin-left: 8px;
+  width: 173px;
+}
+
+.carbonlocation {
+  height: 16px;
+  width: 16px;
+}
+
+.pune-maharashtra-india {
+  color: var(--secondary-text);
+  font-weight: 300;
+  height: 16px;
+  margin-left: 3px;
+  width: 152px;
+}
+
+.diploma-certificate-5-more {
+  color: var(--secondary-text);
+  font-weight: 300;
+  margin-top: 8px;
+  min-height: 14px;
+  min-width: 154px;
+}
+
+.frame-1 {
+  background-color: var(--white2);
+  border-radius: 14px;
+  box-shadow: 0px 0px 15px 
+#00000008;
+  display: flex;
+  flex-direction: column;
+  height: 208px;
+  margin-left: 20px;
+  overflow: hidden;
+  position: relative;
+  width: 330px;
+}
+
+.noun-college-2235593-2-1 {
+  height: 50px;
+  margin-left: 140px;
+  margin-top: 22px;
+  width: 50px;
+}
+
+.line-1-3 {
+  height: 1px;
+  margin-left: 20px;
+  margin-top: 6.8px;
+  width: 291px;
+}
+
+.university-of-technology-sydney-ultimo {
+  color: var(--primary-text-black);
+  font-weight: 400;
+  height: 19px;
+  margin-left: 11px;
+  margin-top: 17.2px;
+  text-align: center;
+  width: 308px;
+}
+
+.group-166 {
+  display: flex;
+  margin-left: 47px;
+  margin-top: 8px;
+  width: 239px;
+}
+
+.sydney-new-south-wales-australia {
+  color: var(--secondary-text);
+  font-weight: 300;
+  height: 16px;
+  margin-left: 3px;
+  width: 218px;
+}
+
+.b-acc-b-sc-8-more {
+  color: var(--secondary-text);
+  font-weight: 300;
+  height: 14px;
+  margin-left: 110px;
+  margin-top: 8px;
+  width: 110px;
+}
+
+.noun-college-2235593-2-2 {
+  height: 1px;
+  margin-left: 164.8px;
+  margin-top: 46.8px;
+  width: 1px;
+}
+
+.line-1-4 {
+  height: 1px;
+  margin-left: 154.5px;
+  margin-top: 6.8px;
+  width: 22px;
+}
+
+.carbonlocation-1 {
+  height: 1px;
+  margin-left: 7.8px;
+  margin-top: 7.8px;
+  width: 1px;
+}
+
+.sydney-new-south-wales-australia-1 {
+  color: var(--secondary-text);
+  font-weight: 300;
+  height: 16px;
+  margin-left: 10.2px;
+  width: 218px;
+}
+
+.group-container-5 {
+  height: 736px;
+  margin-right: 38px;
+  margin-top: 120px;
+  position: relative;
+  width: 1334px;
+}
+
+.group-1992 {
+  display: flex;
+  flex-direction: column;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.pursue-to-travel {
+  height: 38px;
+  letter-spacing: 0;
+  width: 238px;
+}
+
+.overlap-group6 {
+  height: 711px;
+  left: 95px;
+  position: absolute;
+  top: 25px;
+  width: 1239px;
+}
+
+.frame-97 {
+  align-items: flex-end;
+  background-color: var(--white2);
+  border-radius: 30px;
+  box-shadow: 0px 0px 15px 
+#00000012;
+  display: flex;
+  flex-direction: column;
+  height: 559px;
+  left: 16px;
+  overflow: hidden;
+  padding: 24px 78px;
+  position: absolute;
+  top: 130px;
+  width: 1150px;
+}
+
+.overlap-group2 {
+  height: 183px;
+  margin-right: 59.67px;
+  position: relative;
+  width: 662px;
+}
+
+.vector-7 {
+  height: 183px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 661px;
+}
+
+.group-1995 {
+  height: 67px;
+  left: 475px;
+  position: absolute;
+  top: 15px;
+  width: 71px;
+}
+
+.ellipse-88 {
+  background-color: var(--action);
+  border-radius: 1.88px;
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 179px;
+  width: 4px;
+}
+
+.frame-98 {
+  align-items: center;
+  background-color: var(--white2);
+  border-radius: 10px;
+  box-shadow: 0px 0px 15px 
+#00000012;
+  display: flex;
+  height: 135px;
+  margin-top: 73px;
+  overflow: hidden;
+  padding: 0 28px;
+  width: 734px;
+}
+
+.group-1996 {
+  align-items: center;
+  border-radius: 6px;
+  display: flex;
+  height: 38px;
+  justify-content: flex-end;
+  margin-top: 1px;
+  min-width: 298px;
+  padding: 0 13.5px;
+}
+
+.group-1999 {
+  align-items: flex-start;
+  display: flex;
+  height: 19px;
+  min-width: 270px;
+}
+
+.programme {
+  align-self: flex-end;
+  color: var(--secondary-text);
+  font-weight: 400;
+  margin-bottom: 0;
+  min-height: 19px;
+  min-width: 84px;
+}
+
+.polygon-4 {
+  height: 10px;
+  margin-left: 171px;
+  margin-top: 1.75px;
+  width: 12px;
+}
+
+.group-1997 {
+  align-items: center;
+  border-radius: 6px;
+  display: flex;
+  height: 38px;
+  justify-content: flex-end;
+  margin-left: 29px;
+  margin-top: 1px;
+  min-width: 191px;
+  padding: 0 15.5px;
+}
+
+.group-1998 {
+  align-items: flex-start;
+  display: flex;
+  height: 19px;
+  min-width: 159px;
+}
+
+.to {
+  align-self: flex-end;
+  color: var(--secondary-text);
+  font-weight: 400;
+  margin-bottom: 0;
+  min-height: 19px;
+  min-width: 18px;
+}
+
+.polygon-4-1 {
+  height: 10px;
+  margin-left: 126px;
+  margin-top: 1.75px;
+  width: 12px;
+}
+
+.frame-84 {
+  background-color: var(--primary);
+  border-radius: 6px;
+  display: flex;
+  height: 39px;
+  margin-left: 29px;
+  overflow: hidden;
+  width: 131px;
+}
+
+.search {
+  color: var(--white2);
+  font-weight: 500;
+  height: 26px;
+  margin-left: 31px;
+  margin-top: 7px;
+  width: 69px;
+}
+
+.trip-pana-1 {
+  height: 371px;
+  left: 0;
+  position: absolute;
+  top: 340px;
+  width: 371px;
+}
+
+.vector {
+  height: 30px;
+  left: 356px;
+  position: absolute;
+  top: 293px;
+  width: 24px;
+}
+
+.world-rafiki-1 {
+  height: 350px;
+  left: 889px;
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+
+.group-2001 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-right: -288px;
+  margin-top: 98px;
+  min-height: 326px;
+  width: 1730px;
+}
+
+.group-1981-2 {
+  display: flex;
+  flex-direction: column;
+  height: 48px;
+  width: 475px;
+}
+
+.surname-2 {
+  height: 38px;
+  letter-spacing: 0;
+  width: 473px;
+}
+
+.line-58-1 {
+  height: 4px;
+  margin-top: 8px;
+  width: 260px;
+}
+
+.group-1988-2 {
+  align-self: flex-end;
+  display: flex;
+  height: 56px;
+  margin-left: 795px;
+  position: relative;
+  width: 102px;
+}
+
+.group-2000 {
+  display: flex;
+  margin-top: 61px;
+  position: relative;
+  width: 1730px;
+}
+
+.frame-101 {
+  align-items: center;
+  background-color: var(--white2);
+  border-radius: 14px;
+  box-shadow: 0px 0px 15px 
+#00000008;
+  display: flex;
+  flex-direction: column;
+  height: 208px;
+  margin-left: 20px;
+  overflow: hidden;
+  padding: 18px 0;
+  width: 330px;
+}
+
+.noun-graduation-4097031-1 {
+  height: 1px;
+  margin-left: 0.5px;
+  margin-top: 41px;
+  width: 1px;
+}
+
+.line-1-5 {
+  height: 1px;
+  margin-right: 1px;
+  margin-top: 47px;
+  width: 23px;
+}
+
+.surname-3 {
+  color: var(--primary-text-black);
+  font-weight: 400;
+  margin-top: 18px;
+  min-height: 19px;
+  text-align: center;
+  width: 308px;
+}
+
+.group-container-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 19px;
+  margin-right: 20px;
+  margin-top: 5px;
+  min-width: 196px;
+}
+
+.group-166-2 {
+  align-self: flex-end;
+  display: flex;
+  margin-left: 7px;
+  width: 174px;
+}
+
+.toronto-ontario-canada {
+  color: var(--secondary-text);
+  font-weight: 300;
+  height: 16px;
+  margin-left: 10.2px;
+  width: 153px;
+}
+
+.design-applied-mathematics-15-more {
+  color: var(--secondary-text);
+  font-weight: 300;
+  margin-top: 8px;
+  min-height: 14px;
+  min-width: 210px;
+}
+
+.group-2002 {
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 48px;
+  margin-left: 70px;
+  margin-top: 120px;
+  width: 255px;
+}
+
+.trending-courses {
+  height: 38px;
+  letter-spacing: 0;
+  width: 253px;
+}
+
+.frame-container {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 70px;
+  min-width: 1372px;
+}
+
+.frame-10 {
+  background-color: var(--white2);
+  border-radius: 20px;
+  box-shadow: 0px 0px 15px 
+#00000012;
+  display: flex;
+  height: 300px;
+  overflow: hidden;
+  width: 422px;
+}
+
+.group-2003 {
+  display: flex;
+  flex-direction: column;
+  height: 250.79px;
+  margin-left: 111px;
+  margin-top: 24.8px;
+  width: 202px;
+}
+
+.investor-presentation-cuate-1 {
+  height: 200px;
+  width: 200px;
+}
+
+.digital-marketing {
+  color: var(--black);
+  font-weight: 500;
+  height: 26px;
+  margin-left: 16px;
+  margin-top: 24.8px;
+  width: 168px;
+}
+
+.frame-103 {
+  background-color: var(--white2);
+  border-radius: 20px;
+  box-shadow: 0px 0px 15px 
+#00000012;
+  display: flex;
+  height: 300px;
+  margin-left: 52px;
+  overflow: hidden;
+  position: relative;
+  width: 424px;
+}
+
+.frame-104 {
+  background-color: var(--white2);
+  border-radius: 20px;
+  box-shadow: 0px 0px 15px 
+#00000012;
+  display: flex;
+  height: 300px;
+  margin-left: 52px;
+  overflow: hidden;
+  width: 422px;
+}
+
+.group-2005 {
+  display: flex;
+  flex-direction: column;
+  height: 250.79px;
+  margin-left: 80px;
+  margin-top: 24.8px;
+  width: 263px;
+}
+
+.mic-drop-cuate-1 {
+  height: 200px;
+  margin-left: 31px;
+  width: 200px;
+}
+
+.orchestration-masterclass {
+  color: var(--black);
+  font-weight: 500;
+  height: 26px;
+  margin-top: 24.8px;
+  width: 261px;
+}
+
+.frame-container-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 40px;
+  min-width: 1372px;
+}
+
+.group-2006 {
+  display: flex;
+  flex-direction: column;
+  height: 250.79px;
+  margin-left: 61px;
+  margin-top: 24.8px;
+  width: 302px;
+}
+
+.studio-photographer-cuate-1 {
+  height: 200px;
+  width: 300px;
+}
+
+.photography {
+  color: var(--black);
+  font-weight: 500;
+  height: 26px;
+  margin-left: 87px;
+  margin-top: 24.8px;
+  width: 126px;
+}
+
+.frame-106 {
+  background-color: var(--white2);
+  border-radius: 20px;
+  box-shadow: 0px 0px 15px 
+#00000012;
+  display: flex;
+  height: 300px;
+  margin-left: 52px;
+  overflow: hidden;
+  width: 424px;
+}
+
+.group-2007 {
+  display: flex;
+  flex-direction: column;
+  height: 250.79px;
+  margin-left: 99px;
+  margin-top: 24.8px;
+  width: 228px;
+}
+
+.projections-cuate-1 {
+  height: 200px;
+  margin-left: 13px;
+  width: 200px;
+}
+
+.business-management {
+  color: var(--black);
+  font-weight: 500;
+  height: 26px;
+  margin-top: 24.8px;
+  width: 226px;
+}
+
+.frame-107 {
+  background-color: var(--white2);
+  border-radius: 20px;
+  box-shadow: 0px 0px 15px 
+#00000012;
+  display: flex;
+  height: 300px;
+  margin-left: 52px;
+  overflow: hidden;
+  position: relative;
+  width: 422px;
+}
+
+.group-container-7 {
+  align-items: flex-start;
+  display: flex;
+  height: 57px;
+  margin-top: 120px;
+  min-width: 1372px;
+}
+
+.group-1981-3 {
+  display: flex;
+  flex-direction: column;
+  height: 48px;
+  width: 310px;
+}
+
+.surname-4 {
+  height: 38px;
+  letter-spacing: 0;
+  width: 308px;
+}
+
+.line-58-2 {
+  height: 4px;
+  margin-top: 8px;
+  width: 180px;
+}
+
+.group-1988-3 {
+  align-self: flex-end;
+  display: flex;
+  height: 56px;
+  margin-left: 960px;
+  position: relative;
+  width: 102px;
+}
+
+.group-2028 {
+  align-self: flex-end;
+  display: flex;
+  margin-right: -288px;
+  margin-top: 61px;
+  position: relative;
+  width: 1730px;
+}
+
+.frame-109 {
+  align-items: flex-start;
+  background-color: var(--white2);
+  border-radius: 14px;
+  box-shadow: 0px 0px 15px 
+#00000008;
+  display: flex;
+  height: 208px;
+  margin-left: 20px;
+  overflow: hidden;
+  padding: 19px 7px;
+  width: 330px;
+}
+
+.group-container-8 {
+  height: 169px;
+  margin-left: 4px;
+  position: relative;
+  width: 312px;
+}
+
+.group-1967-1 {
+  height: 15px;
+  left: 46px;
+  position: absolute;
+  top: 130px;
+  width: 15px;
+}
+
+.group-2027 {
+  display: flex;
+  flex-direction: column;
+  height: 169px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 312px;
+}
+
+.noun-online-education-4147092-1 {
+  height: 1px;
+  margin-left: 153.8px;
+  margin-top: 39.8px;
+  width: 1px;
+}
+
+.line-1-6 {
+  height: 1px;
+  margin-left: 143.5px;
+  margin-top: 40px;
+  width: 22px;
+}
+
+.become-a-web-developer-from-scratch {
+  color: var(--primary-text-black);
+  font-weight: 400;
+  height: 19px;
+  margin-top: 17.2px;
+  text-align: center;
+  width: 308px;
+}
+
+.name {
+  color: var(--secondary-text);
+  font-weight: 300;
+  height: 16px;
+  margin-left: 113px;
+  margin-top: 8px;
+  width: 82px;
+}
+
+.group-2026 {
+  display: flex;
+  margin-left: 72px;
+  margin-top: 8px;
+  width: 167px;
+}
+
+.group-2025 {
+  height: 1px;
+  margin-left: 40.8px;
+  margin-top: 8.8px;
+  width: 1px;
+}
+
+.text-5 {
+  color: var(--secondary-text);
+  font-weight: 400;
+  height: 19px;
+  margin-left: 71.2px;
+  width: 52px;
+}
+
+.group-2031 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 120px;
+  min-width: 1512px;
+}
+
+.overlap-group5 {
+  height: 433px;
+  position: relative;
+  width: 1512px;
+}
+
+.rectangle-535 {
+  background-color: var(--indigo);
+  height: 308px;
+  left: 0;
+  position: absolute;
+  top: 125px;
+  width: 1512px;
+}
+
+.frame-110 {
+  align-items: flex-start;
+  background-color: var(--white2);
+  border-radius: 30px;
+  box-shadow: 0px 0px 15px 
+#00000012;
+  display: flex;
+  height: 381px;
+  left: 70px;
+  overflow: hidden;
+  padding: 11px 76px;
+  position: absolute;
+  top: 0;
+  width: 1372px;
+}
+
+.flex-col-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 3px;
+  min-height: 244px;
+  width: 205px;
+}
+
+.group-2029 {
+  display: flex;
+  flex-direction: column;
+  height: 110px;
+  width: 117px;
+}
+
+.group-2-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 23px;
+  min-width: 69px;
+}
+
+.ellipse-container-1 {
+  height: 69px;
+  margin-top: -0.01px;
+  position: relative;
+  width: 59px;
+}
+
+.ellipse-1 {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 55px;
+}
+
+.ellipse-2 {
+  height: 21px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 56px;
+}
+
+.ellipse-3 {
+  height: 19px;
+  left: 6px;
+  position: absolute;
+  top: 4px;
+  width: 50px;
+}
+
+.ellipse-4 {
+  height: 17px;
+  left: 10px;
+  position: absolute;
+  top: 7px;
+  width: 44px;
+}
+
+.career-clutch {
+  color: 
+#211eaa;
+  font-family: var(--font-family-sahitya);
+  font-size: 20px;
+  font-weight: 700;
+  height: 31px;
+  letter-spacing: 0;
+  margin-top: 10px;
+  width: 115px;
+}
+
+.copyright {
+  color: var(--secondary-text);
+  font-weight: 300;
+  margin-top: 118px;
+  min-height: 16px;
+}
+
+.group-2032 {
+  display: flex;
+  flex-direction: column;
+  height: 153px;
+  margin-left: 56px;
+  margin-top: 46px;
+  width: 142px;
+}
+
+.career-clutch-1 {
+  color: var(--primary-text-black);
+  font-weight: 500;
+  height: 26px;
+  width: 136px;
+}
+
+.group-2031-1 {
+  display: flex;
+  flex-direction: column;
+  height: 112px;
+  margin-top: 15px;
+  width: 148px;
+}
+
+.about-us {
+  color: var(--secondary-text);
+  font-weight: 400;
+  height: 19px;
+  width: 66px;
+}
+
+.contact-us {
+  color: var(--secondary-text);
+  font-weight: 400;
+  height: 19px;
+  margin-top: 12px;
+  width: 79px;
+}
+
+.terms-conditions {
+  color: var(--secondary-text);
+  font-weight: 400;
+  height: 19px;
+  margin-top: 12px;
+  width: 140px;
+}
+
+.privacy-policy {
+  color: var(--secondary-text);
+  font-weight: 400;
+  height: 19px;
+  margin-top: 12px;
+  width: 113px;
+}
+
+.group-2033 {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  height: 246px;
+  margin-bottom: 21px;
+  margin-left: 100px;
+  width: 178px;
+}
+
+.how-do-we-serve {
+  color: var(--primary-text-black);
+  font-weight: 500;
+  height: 26px;
+  width: 176px;
+}
+
+.group-2030 {
+  display: flex;
+  flex-direction: column;
+  height: 205px;
+  margin-top: 15px;
+  width: 98px;
+}
+
+.career {
+  color: var(--secondary-text);
+  font-weight: 400;
+  height: 19px;
+  width: 47px;
+}
+
+.scholarship-1 {
+  color: var(--secondary-text);
+  font-weight: 400;
+  height: 19px;
+  margin-top: 12px;
+  width: 84px;
+}
+
+.college {
+  color: var(--secondary-text);
+  font-weight: 400;
+  height: 19px;
+  margin-top: 12px;
+  width: 54px;
+}
+
+.exam-1 {
+  color: var(--secondary-text);
+  font-weight: 400;
+  height: 19px;
+  margin-top: 12px;
+  width: 40px;
+}
+
+.webinar-1 {
+  color: var(--secondary-text);
+  font-weight: 400;
+  height: 19px;
+  margin-top: 12px;
+  width: 59px;
+}
+
+.course {
+  color: var(--secondary-text);
+  font-weight: 400;
+  height: 19px;
+  margin-top: 12px;
+  width: 51px;
+}
+
+.camp {
+  color: var(--secondary-text);
+  font-weight: 400;
+  height: 19px;
+  margin-top: 12px;
+  width: 43px;
+}
+
+.flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
+  margin-top: 46px;
+  min-height: 95px;
+  width: 436px;
+}
+
+.subscribe-to-our-newsletter {
+  color: var(--primary-text-black);
+  font-weight: 500;
+  min-height: 26px;
+  width: 283px;
+}
+
+.overlap-group1 {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 29px;
+  min-width: 436px;
+}
+
+.enter-email {
+  color: var(--secondary-text);
+  font-weight: 400;
+  margin-bottom: 2px;
+  min-height: 19px;
+  min-width: 81px;
+}
+
+.overlap-group2-1 {
+  align-items: flex-start;
+  background-color: var(--primary);
+  display: flex;
+  height: 40px;
+  margin-left: 162px;
+  min-width: 173px;
+  padding: 10px 51px;
+}
+
+.subscribe {
+  color: var(--white2);
+  font-weight: 400;
+  min-height: 19px;
+}
+
+.frame-87 {
+  background-color: var(--white2);
+  border-radius: 15px;
+  display: flex;
+  height: 221px;
+  margin-top: 28px;
+  overflow: hidden;
+  width: 183px;
+}
+
+.group-194-1 {
+  display: flex;
+  flex-direction: column;
+  height: 132px;
+  margin-left: 41px;
+  margin-top: 44px;
+  width: 102px;
+}
+
+.career-1 {
+  height: 100px;
+  margin-top: -0.2px;
+  object-fit: cover;
+  width: 100px;
+}
+
+.career-2 {
+  color: var(--primary-text-black);
+  font-weight: 400;
+  height: 19px;
+  margin-left: 27px;
+  margin-top: 13.2px;
+  width: 47px;
+}
+
+.frame-87.frame-93 {
+  margin-left: 15px;
+  margin-top: 29px;
+}
+
+.frame-87.frame-93 .career-2 {
+  margin-left: 29px;
+  width: 43px;
+}
+
+.frame-89 {
+  background-color: var(--white2);
+  border-radius: 15px;
+  display: flex;
+  height: 221px;
+  margin-left: 15px;
+  margin-top: 28px;
+  overflow: hidden;
+  width: 183px;
+}
+
+.group-194-2 {
+  display: flex;
+  flex-direction: column;
+  height: 132px;
+  margin-left: 41px;
+  margin-top: 44px;
+  width: 102px;
+}
+
+.school-1 {
+  height: 100px;
+  margin-top: -0.2px;
+  object-fit: cover;
+  width: 100px;
+}
+
+.college-1 {
+  color: var(--primary-text-black);
+  font-weight: 400;
+  height: 19px;
+  margin-left: 23px;
+  margin-top: 13.2px;
+  width: 54px;
+}
+
+.frame-89.frame-92 {
+  margin-top: 29px;
+}
+
+.frame-89.frame-92 .college-1 {
+  margin-left: 25px;
+  width: 51px;
+}
+
+.group-1966 {
+  border-radius: 16px;
+  display: flex;
+  height: 32px;
+  width: 32px;
+}
+
+.biarrow-down-1 {
+  height: 20px;
+  margin-left: 6px;
+  margin-top: 5.8px;
+  width: 20px;
+}
+
+.group-1966.group-1971-1 {
+  margin-left: 29px;
+  margin-top: 808px;
+}
+
+.group-19-1 {
+  border-radius: 28px;
+  display: flex;
+  height: 56px;
+  margin-left: 14px;
+  width: 56px;
+}
+
+.biarrow-down-2 {
+  height: 38px;
+  margin-left: 9px;
+  margin-top: 8.7px;
+  width: 38px;
+}
+
+.group-19-1.group-19-2 .biarrow-down-2,
+.group-19-1.group-19-3 .biarrow-down-2,
+.group-19-1.group-19-4 .biarrow-down-2,
+.group-19-1.group-19 .biarrow-down-2 {
+  margin-top: 9px;
+}
+
+.group-19-1.group-1970-1 {
+  border-radius: 28px;
+  display: flex;
+  height: 56px;
+  margin-left: 14px;
+  margin-top: 796px;
+  width: 56px;
+}
+
+.frame-2 {
+  background-color: var(--white2);
+  border-radius: 14px;
+  box-shadow: 0px 0px 15px 
+#00000008;
+  display: flex;
+  height: 157px;
+  margin-left: 20px;
+  overflow: hidden;
+  width: 246px;
+}
+
+.group-76 {
+  display: flex;
+  flex-direction: column;
+  height: 115px;
+  margin-left: 21px;
+  margin-top: 19px;
+  width: 205px;
+}
+
+.noun-entrepreneur-4134751-1 {
+  height: 50px;
+  margin-left: 77px;
+  margin-top: -0.2px;
+  width: 50px;
+}
+
+.line-1-7 {
+  height: 1px;
+  margin-top: 12.8px;
+  width: 205px;
+}
+
+.group-2-3 {
+  display: flex;
+  flex-direction: column;
+  height: 39px;
+  margin-left: 32px;
+  margin-top: 12.5px;
+  width: 145px;
+}
+
+.entrepreneur {
+  color: var(--primary-text-black);
+  font-weight: 400;
+  height: 19px;
+  margin-left: 24px;
+  width: 92px;
+}
+
+.business-management-1 {
+  color: var(--secondary-text);
+  font-weight: 300;
+  height: 16px;
+  margin-top: 4px;
+  width: 141px;
+}
+
+.group-2-4 {
+  display: flex;
+  flex-direction: column;
+  height: 39px;
+  margin-left: 53px;
+  margin-top: 12.5px;
+  width: 102px;
+}
+
+.theatre-artist {
+  color: var(--primary-text-black);
+  font-weight: 400;
+  height: 19px;
+  width: 98px;
+}
+
+.performing-arts-1 {
+  color: var(--secondary-text);
+  font-weight: 300;
+  height: 16px;
+  margin-left: 1px;
+  margin-top: 4px;
+  width: 97px;
+}
+
+.frame-3 {
+  background-color: var(--white2);
+  border-radius: 14px;
+  box-shadow: 0px 0px 15px 
+#00000008;
+  display: flex;
+  flex-direction: column;
+  height: 208px;
+  margin-left: 20px;
+  overflow: hidden;
+  width: 330px;
+}
+
+.noun-college-2235593-2-3 {
+  height: 50px;
+  margin-left: 140px;
+  margin-top: 22px;
+  width: 50px;
+}
+
+.group-163 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 133px;
+  margin-top: 11px;
+  min-width: 66px;
+}
+
+.overlap-group-3 {
+  align-items: center;
+  background-color: var(--orange);
+  border-radius: 7px;
+  display: flex;
+  height: 13px;
+  min-width: 64px;
+  padding: 0 5px;
+}
+
+.ellipse-26-1 {
+  background-color: var(--white2);
+  border-radius: 2.5px;
+  height: 5px;
+  width: 5px;
+}
+
+.government {
+  color: var(--white2);
+  font-weight: 400;
+  margin-left: 5px;
+  min-height: 9px;
+  min-width: 44px;
+}
+
+.line-1-8 {
+  height: 1px;
+  margin-left: 20px;
+  margin-top: 6.8px;
+  width: 291px;
+}
+
+.aacharya-nagarunja-university {
+  color: var(--primary-text-black);
+  font-weight: 400;
+  height: 19px;
+  margin-left: 11px;
+  margin-top: 17.2px;
+  text-align: center;
+  width: 308px;
+}
+
+.group-166-3 {
+  display: flex;
+  margin-left: 71px;
+  margin-top: 8px;
+  width: 190px;
+}
+
+.carbonlocation-2 {
+  height: 16px;
+  width: 16px;
+}
+
+.guntur-andrapradesh-india {
+  color: var(--secondary-text);
+  font-weight: 300;
+  height: 16px;
+  margin-left: 3px;
+  width: 169px;
+}
+
+.m-sc-law-8-more {
+  color: var(--secondary-text);
+  font-weight: 300;
+  height: 14px;
+  margin-left: 113px;
+  margin-top: 8px;
+  width: 104px;
+}
+
+.group-163-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 122px;
+  margin-top: 11px;
+  min-width: 89px;
+}
+
+.overlap-group-4 {
+  align-items: center;
+  background-color: var(--orange);
+  border-radius: 7px;
+  display: flex;
+  height: 13px;
+  justify-content: flex-end;
+  min-width: 87px;
+  padding: 0 5px;
+}
+
+.ellipse-26-2 {
+  background-color: var(--white2);
+  border-radius: 2.5px;
+  height: 5px;
+  width: 5px;
+}
+
+.government-aided {
+  color: var(--white2);
+  font-weight: 400;
+  margin-left: 5px;
+  min-height: 9px;
+  min-width: 66px;
+}
+
+.group-163-1.group-163-2 {
+  margin-top: 35.2px;
+}
+
+.frame-4-2 {
+  align-items: center;
+  background-color: var(--white2);
+  border-radius: 14px;
+  box-shadow: 0px 0px 15px 
+#00000008;
+  display: flex;
+  flex-direction: column;
+  height: 208px;
+  overflow: hidden;
+  padding: 18px 0;
+  width: 330px;
+}
+
+.noun-graduation-4097031-1-1 {
+  height: 80px;
+  margin-top: 1px;
+  width: 80px;
+}
+
+.line-1-9 {
+  height: 1px;
+  margin-right: 1px;
+  margin-top: 8px;
+  width: 291px;
+}
+
+.surname-5 {
+  color: var(--primary-text-black);
+  font-weight: 400;
+  margin-top: 18px;
+  min-height: 19px;
+  text-align: center;
+  width: 308px;
+}
+
+.group-container-9 {
+  align-items: flex-start;
+  display: flex;
+  height: 19px;
+  margin-right: 20px;
+  margin-top: 5px;
+  min-width: 196px;
+}
+
+.group-1967-2 {
+  height: 15px;
+  width: 15px;
+}
+
+.group-166-4 {
+  align-self: flex-end;
+  display: flex;
+  margin-left: 7px;
+  width: 174px;
+}
+
+.carbonlocation-3 {
+  height: 16px;
+  margin-top: -0.2px;
+  width: 16px;
+}
+
+.toronto-ontario-canada-1 {
+  color: var(--secondary-text);
+  font-weight: 300;
+  height: 16px;
+  margin-left: 3px;
+  width: 153px;
+}
+
+.design-applied-mathematics-15-more-1 {
+  color: var(--secondary-text);
+  font-weight: 300;
+  margin-top: 8px;
+  min-height: 14px;
+  min-width: 210px;
+}
+
+.frame-4-2.frame-5 {
+  margin-left: 20px;
+}
+
+.group-2004 {
+  display: flex;
+  flex-direction: column;
+  height: 250.79px;
+  margin-left: 112px;
+  margin-top: 24.8px;
+  width: 202px;
+}
+
+.x-cuate-1 {
+  height: 200px;
+  width: 200px;
+}
+
+.graphic-designing {
+  color: var(--black);
+  font-weight: 500;
+  height: 26px;
+  margin-left: 10px;
+  margin-top: 24.8px;
+  width: 180px;
+}
+
+.group-2004.group-2008 {
+  margin-left: 111px;
+}
+
+.group-2004.group-2008 .graphic-designing {
+  width: 179px;
+}
+
+.frame-4-3 {
+  align-items: flex-start;
+  background-color: var(--white2);
+  border-radius: 14px;
+  box-shadow: 0px 0px 15px 
+#00000008;
+  display: flex;
+  height: 208px;
+  overflow: hidden;
+  padding: 19px 7px;
+  width: 330px;
+}
+
+.group-container-10 {
+  height: 169px;
+  margin-left: 4px;
+  position: relative;
+  width: 312px;
+}
+
+.group-1967-3 {
+  height: 15px;
+  left: 46px;
+  position: absolute;
+  top: 130px;
+  width: 15px;
+}
+
+.group-2027-1 {
+  display: flex;
+  flex-direction: column;
+  height: 169px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 312px;
+}
+
+.noun-online-education-4147092-1-1 {
+  height: 80px;
+  margin-left: 114px;
+  width: 80px;
+}
+
+.line-1-10 {
+  height: 1px;
+  margin-left: 9px;
+  margin-top: 0.8px;
+  width: 291px;
+}
+
+.become-a-web-developer-from-scratch-1 {
+  color: var(--primary-text-black);
+  font-weight: 400;
+  height: 19px;
+  margin-top: 17.2px;
+  text-align: center;
+  width: 308px;
+}
+
+.name-1 {
+  color: var(--secondary-text);
+  font-weight: 300;
+  height: 16px;
+  margin-left: 113px;
+  margin-top: 8px;
+  width: 82px;
+}
+
+.group-2026-1 {
+  display: flex;
+  margin-left: 72px;
+  margin-top: 8px;
+  width: 167px;
+}
+
+.group-2025-1 {
+  height: 14px;
+  margin-top: 2px;
+  width: 82px;
+}
+
+.text {
+  color: var(--secondary-text);
+  font-weight: 400;
+  height: 19px;
+  margin-left: 31px;
+  width: 52px;
+}
+
+.frame-4-3.frame-6 {
+  margin-left: 20px;
+}
